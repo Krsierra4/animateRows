@@ -13,12 +13,16 @@
     <pluginInfo version-no="8.4.0.v201901240955" plugin-id="com.kony.fpreview" plugin-name="Kony Functional Preview Plugin"/>
     <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.api" plugin-name="StudioViz API"/>
     <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.chrome.api" plugin-name="StudioViz Chrome API"/>
-    <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.chrome.mac64" plugin-name="StudioViz Chrome"/>
-    <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.core.mac64" plugin-name="StudioViz Core"/>
-    <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.nodejs.mac64" plugin-name="StudioViz NodeJS"/>
+    <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.chrome.win64" plugin-name="StudioViz Chrome"/>
+    <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.core.win64" plugin-name="StudioViz Core"/>
+    <pluginInfo version-no="8.4.43.v201909121934" plugin-id="com.kony.studio.viz.nodejs.win64" plugin-name="StudioViz NodeJS"/>
     <pluginInfo version-no="8.4.0.v201812281452" plugin-id="com.kony.reference.architecture" plugin-name="Reference Architecture"/>
     <pluginInfo version-no="8.4.44.v201909201746" plugin-id="com.pat.tabrcandroid" plugin-name="Tablet Android"/>
+    <pluginInfo version-no="8.4.20.v201906060040" plugin-id="com.kony.windowsphone8" plugin-name="Windows Phone 8 Plug-in"/>
+    <pluginInfo version-no="8.4.27.v201907112351" plugin-id="com.kony.windows8" plugin-name="Windows 8.1 Plug-in"/>
+    <pluginInfo version-no="8.4.44.v201909201802" plugin-id="com.kony.windows10" plugin-name="Windows 10 Plug-in"/>
     <pluginInfo version-no="8.4.44.v201909201746" plugin-id="com.pat.android" plugin-name="Android"/>
+    <pluginInfo version-no="8.4.44.v201909201756" plugin-id="com.kony.windows" plugin-name="Windows Desktop Plug-in"/>
     <pluginInfo version-no="8.4.44.v201909201704" plugin-id="com.kony.spa" plugin-name="SPA"/>
     <pluginInfo version-no="8.4.44.v201909201659" plugin-id="com.kony.desktopweb" plugin-name="Kony Desktop Web"/>
     <pluginInfo version-no="8.4.20.201905292229" plugin-id="com.kony.webcommons" plugin-name="Kony Web Commons"/>
