@@ -246,7 +246,7 @@
         },
         "wType": "Appmenu"
     },
-    "appnamekey": "executeOnParent",
+    "appnamekey": "animateRows",
     "appointments": "false",
     "apppackagekey": "com.orgname.executeOnParent",
     "apptitle": "",

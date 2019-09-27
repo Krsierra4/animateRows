@@ -1,12 +1,13 @@
 {
     "DNDConfig": null,
+    "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "120dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "768dp"
     },
     "_margin_": [
         0,
@@ -22,41 +23,31 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s969b488b7f74b809b660be1af1189e2",
+    "_skin_": "s6bf134151c94d8698931aa48312d387",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "24.09%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "profile",
-        "buttons"
-    ],
+    "children": [],
     "clipbounds": true,
     "containerId": true,
     "containerweight": 100,
-    "controllerInfo": {
-        "default": {
-            "channel": "tablet",
-            "name": "profileContainerController"
-        }
-    },
     "enablescrolling": true,
-    "id": "profileContainer",
+    "id": "buttons",
     "info": null,
-    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a70a8ee79b734a43828374cafe967ba4",
+    "kuid": "e20c0ab42b0c4fc2b4ad34b93c0b23f8",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "Temp0b40d1da1001a4f",
+    "parent": "profileContainer",
     "pf": "Temp0b40d1da1001a4f",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -64,5 +55,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

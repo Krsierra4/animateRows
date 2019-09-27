@@ -21,7 +21,7 @@ define(function() {
         };
         var animationConfig = {
           rows: [{ sectionIndex: data.section, rowIndex: data.row }],
-          widgets: ['profileContainer'],
+          widgets: ['profile', 'buttons'],
           animation: {
             definition: kony.ui.createAnimation(animationDef),
             config: {
